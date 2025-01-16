@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin, an 
+<h1>Hi, I'm Justin, a certified entry-level IT specialist
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
