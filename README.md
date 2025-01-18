@@ -7,3 +7,4 @@
  
  Installation and setting up Active Directory
  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/justingranger22/Active-Directory))
+ - [Setting up and Managing Active Directory](https://github.com/justingranger22/Setting-up-Active-Directory))
