@@ -10,4 +10,4 @@
  - [Setting up and Managing Active Directory](https://github.com/justingranger22/Setting-up-Active-Directory))
 
  Understanding Wireshark and diffent types or traffic
- - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/justingranger22/azure-network-protocols)
+ - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/justingranger22/Network-Security-Groups)
